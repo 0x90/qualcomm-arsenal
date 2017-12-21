@@ -1,0 +1,3 @@
+[submodule "qfprom-kmod"]
+	path = qfprom-kmod
+	url = https://github.com/ghassani/qfprom-kmod
