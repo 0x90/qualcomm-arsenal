@@ -1,3 +1,12 @@
 [submodule "qfprom-kmod"]
 	path = qfprom-kmod
 	url = https://github.com/ghassani/qfprom-kmod
+[submodule "qc_image_unpacker"]
+	path = qc_image_unpacker
+	url = https://github.com/anestisb/qc_image_unpacker
+[submodule "qdl"]
+	path = qdl
+	url = https://github.com/danielkutik/qdl
+[submodule "changemac"]
+	path = changemac
+	url = https://github.com/saleemrashid/changemac
