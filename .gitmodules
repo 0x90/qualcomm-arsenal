@@ -10,3 +10,93 @@
 [submodule "changemac"]
 	path = changemac
 	url = https://github.com/saleemrashid/changemac
+[submodule "qualcomm-opensource-tools"]
+	path = qualcomm-opensource-tools
+	url = https://github.com/emonti/qualcomm-opensource-tools
+[submodule "qualcomm-sfe"]
+	path = qualcomm-sfe
+	url = https://github.com/waau/qualcomm-sfe
+[submodule "rmtfs"]
+	path = rmtfs
+	url = https://github.com/andersson/rmtfs
+[submodule "mbn_ida_loader"]
+	path = mbn_ida_loader
+	url = https://github.com/ralekdev/mbn_ida_loader
+[submodule "readmbn"]
+	path = readmbn
+	url = https://github.com/openpst/readmbn
+[submodule "EfsTools"]
+	path = EfsTools
+	url = https://github.com/JohnBel/EfsTools
+[submodule "qcdm"]
+	path = qcdm
+	url = https://github.com/openpst/qcdm
+[submodule "emmcdl"]
+	path = emmcdl
+	url = https://github.com/nijel8/emmcdl
+[submodule "firehorse"]
+	path = firehorse
+	url = https://github.com/alephsecurity/firehorse
+[submodule "openpst"]
+	path = openpst
+	url = https://github.com/openpst/openpst
+[submodule "qcom-mbn-ida-loader"]
+	path = qcom-mbn-ida-loader
+	url = https://github.com/vtsingaras/qcom-mbn-ida-loader
+[submodule "hexag00n"]
+	path = hexag00n
+	url = https://github.com/programa-stic/hexag00n
+[submodule "qualcomm-nnlib"]
+	path = qualcomm-nnlib
+	url = https://github.com/waau/qualcomm-nnlib
+[submodule "WiresharkQMIDissector"]
+	path = WiresharkQMIDissector
+	url = https://github.com/dnlplm/WiresharkQMIDissector
+[submodule "open-plc-utils"]
+	path = open-plc-utils
+	url = https://github.com/qca/open-plc-utils
+[submodule "diag_qcdm"]
+	path = diag_qcdm
+	url = https://github.com/moonsky219/diag_qcdm
+[submodule "ramdump_toolkit"]
+	path = ramdump_toolkit
+	url = https://github.com/E3V3A/ramdump_toolkit
+[submodule "fadaQualcomm"]
+	path = fadaQualcomm
+	url = https://github.com/leandrofga/fadaQualcomm
+[submodule "android-qfil-unsparse"]
+	path = android-qfil-unsparse
+	url = https://github.com/NHellFire/android-qfil-unsparse
+[submodule "Qualcomm-DevInfo-Partition-Parser"]
+	path = Qualcomm-DevInfo-Partition-Parser
+	url = https://github.com/TwizzyIndy/Qualcomm-DevInfo-Partition-Parser
+[submodule "RamdumpParser"]
+	path = RamdumpParser
+	url = https://github.com/dig5864/RamdumpParser
+[submodule "cve-2016-2431"]
+	path = cve-2016-2431
+	url = https://github.com/laginimaineb/cve-2016-2431
+[submodule "dtimgextract"]
+	path = dtimgextract
+	url = https://github.com/s0be/dtimgextract
+[submodule "q6dlpager"]
+	path = q6dlpager
+	url = https://github.com/tewilove/q6dlpager
+[submodule "28874Decoder"]
+	path = 28874Decoder
+	url = https://github.com/HandyMenny/28874Decoder
+[submodule "android_tools_system_dtbTool"]
+	path = android_tools_system_dtbTool
+	url = https://github.com/rajatgupta1998/android_tools_system_dtbTool
+[submodule "mbntool"]
+	path = mbntool
+	url = https://github.com/oscardagrach/mbntool
+[submodule "qmiparse"]
+	path = qmiparse
+	url = https://github.com/air-gh/qmiparse
+[submodule "BLUnlocker"]
+	path = BLUnlocker
+	url = https://github.com/Naveen3Singh/BLUnlocker
+[submodule "DLOADTool"]
+	path = DLOADTool
+	url = https://github.com/posixninja/DLOADTool
