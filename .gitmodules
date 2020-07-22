@@ -100,3 +100,75 @@
 [submodule "DLOADTool"]
 	path = DLOADTool
 	url = https://github.com/posixninja/DLOADTool
+[submodule "qcmap_cli"]
+	path = qcmap_cli
+	url = https://github.com/fluSamples/qcmap_cli
+[submodule "Qualcomm-Firehose"]
+	path = Qualcomm-Firehose
+	url = https://github.com/zenlty/Qualcomm-Firehose
+[submodule "fh_loader"]
+	path = fh_loader
+	url = https://github.com/LonelyFool/fh_loader
+[submodule "firehose-research"]
+	path = firehose-research
+	url = https://github.com/alephsecurity/firehorse
+[submodule "firehose_generalmobile"]
+	path = firehose_generalmobile
+	url = https://github.com/zenlty/firehose_generalmobile
+[submodule "Firehose-Finder"]
+	path = Firehose-Finder
+	url = https://github.com/hoplik/Firehose-Finder
+[submodule "qualcomm_platform_analyse"]
+	path = qualcomm_platform_analyse
+	url = https://github.com/SuperTao/qualcomm_platform_analyse
+[submodule "qti-mem-opt"]
+	path = qti-mem-opt
+	url = https://github.com/yc9559/qti-mem-opt
+[submodule "DFUPort"]
+	path = DFUPort
+	url = https://github.com/Zalexanninev15/DFUPort
+[submodule "QCUSBSer"]
+	path = QCUSBSer
+	url = https://github.com/DriversStore/QCUSBSer
+[submodule "Qualcomm-Tool"]
+	path = Qualcomm-Tool
+	url = https://github.com/sjames11501/Qualcomm-Tool
+[submodule "qpst-imger"]
+	path = qpst-imger
+	url = https://github.com/lifenjoiner/qpst-imger
+[submodule "qshell"]
+	path = qshell
+	url = https://github.com/stevevista/qshell
+[submodule "qcn"]
+	path = qcn
+	url = https://github.com/dl12345/qcn
+[submodule "QPSTools"]
+	path = QPSTools
+	url = https://github.com/edgarrmondragon/QPSTools
+[submodule "Qualcomm_QPST_Toolsets"]
+	path = Qualcomm_QPST_Toolsets
+	url = https://github.com/RicardoMullion/Qualcomm_QPST_Toolsets
+[submodule "nano-dm"]
+	path = nano-dm
+	url = https://github.com/kevinmehall/nano-dm
+[submodule "QualcommSerialportTool"]
+	path = QualcommSerialportTool
+	url = https://github.com/torxxxx/QualcommSerialportTool
+[submodule "QualcommMBNs"]
+	path = QualcommMBNs
+	url = https://github.com/JohnBel/QualcommMBNs
+[submodule "ca-combos-editor"]
+	path = ca-combos-editor
+	url = https://github.com/denysvitali/ca-combos-editor
+[submodule "QualcommLTE"]
+	path = QualcommLTE
+	url = https://github.com/gartfr/QualcommLTE
+[submodule "VoLTE-Fix"]
+	path = VoLTE-Fix
+	url = https://github.com/KhushrajRathod/VoLTE-Fix
+[submodule "ravemodemfactory"]
+	path = ravemodemfactory
+	url = https://github.com/aleksander0m/ravemodemfactory
+[submodule "RPMDump"]
+	path = RPMDump
+	url = https://github.com/EasonZxp/RPMDump
